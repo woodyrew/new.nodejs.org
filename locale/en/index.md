@@ -5,6 +5,10 @@ labels:
   download: Download
   download-for: Download for
   other-downloads: Other Downloads
+  other-lts-downloads: Other LTS Downloads
+  other-stable-downloads: Other Stable Downloads
+  stable: Stable
+  lts: LTS
   changelog: Changelog
   api: API Docs
 ---
